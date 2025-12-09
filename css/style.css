@@ -90,7 +90,7 @@ section img{
         width: 648px;
     }
 }
-@media (max-width: 375px){
+@media (max-whidth: 375px){
 
         header img
         {

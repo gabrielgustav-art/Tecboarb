@@ -87,7 +87,7 @@ section img{
         margin: 65px 0 0 60px;
     }   
     p{
-        whidth: 648px;
+        width: 648px;
     }
 }
 @media (max-width: 375px){
@@ -102,7 +102,7 @@ section img{
         }
         p{
             font-size: 20px;
-            whidth: 340px;
+            width: 340px;
         }
         a{
             font-size: 20px;
